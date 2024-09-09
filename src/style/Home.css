@@ -1,0 +1,100 @@
+.home {
+  height: 100%;
+  width: 100%;
+  font-family: serif;
+}
+.home-slider1 {
+  background-image: url("../image/login.jpg");
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 250px;
+}
+.home-slider1 h4 {
+  font-size: 30px;
+}
+.home-slider1 p {
+  width: 450px;
+  margin-left: 220px;
+  margin-top: 30px;
+}
+.home-slider2 {
+  background-image: url("../image/login.jpg");
+  height: 100px;
+  text-align: center;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 250px;
+}
+.home-slider2 h4 {
+  width: 20px;
+  margin-left: 399px;
+  margin-bottom: 30px;
+  font-size: xx-large;
+}
+.home-slider2 p{
+  font-size: x-large;
+}
+
+.home-slider3 {
+  background-image: url("../image/login.jpg");
+  height: 140px;
+  text-align: center;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 250px;
+}
+.home-slider3 h4 {
+  /* width: 20px; */
+  /* margin-left: 20px; */
+  
+}
+.home-slider3 p {
+  width: 450px;
+  margin-left: 23%;
+  margin-top: 20px;
+}
+.home-slider4 {
+  background-image: url("../image/login.jpg");
+  height: 60px;
+  text-align: center;
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 170px;
+}
+.home-slider4 h4 {
+  font-size: 50px;
+  margin-left: 30px;
+}
+.home-div {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.home-slider4 h6 {
+  font-weight: 500;
+  width: 450px;
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.home-anchor {
+  margin-left: 20px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+}
+.home-slider4 p{
+  margin-top: 20px;
+}
+.home-div div{
+  margin-top: 20px;
+}

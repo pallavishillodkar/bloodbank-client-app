@@ -1,0 +1,69 @@
+.top {
+  height: 100vh;
+  width: 100%;
+  background-image: url("../image/bloodbank.jpg");
+  background-size: cover;
+  /* margin-left: 30%; */
+  padding-top: 80px;
+  padding-left: 35%;
+}
+.patient-form {
+  background: rgba(0, 0, 0, 0.623);
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  height: 450px;
+  width: 450px;
+  justify-content: center;
+  align-items: center;
+}
+.patient-select {
+  width: 60px;
+  height: 25px;
+  margin-top: 20px;
+  border-radius: 6px;
+  margin-right: 8px;
+}
+.patient-label{
+  margin-top: 20px;
+  color: #fff;
+  margin-right: 8px;
+}
+.patient-input{
+  display: flex;
+  width: 400px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+.patient-control {
+  margin-left: 40px;
+  width: 40px;
+}
+.submit-buttons {
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  margin-top: 20px;
+  margin-left: 42%;
+  margin-right:500px;
+
+}
+.submit-buttons:hover {
+  background-color: #f37f7fe9;
+  box-shadow: 0px 15px 20px rgba(222, 204, 204, 0.4);
+  color: #fff;
+  transform: translateY(-7px);
+}
+.submit-buttons:active {
+  transform: translateY(-1px);
+}

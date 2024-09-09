@@ -1,0 +1,21 @@
+.request{
+    height: 100vh;
+    width: 100%;
+    padding-top: 80px;
+    /* background-color: wheat; */
+    background-color:  #202531;
+}
+.myrequest-card{
+    /* background-color: rgb(230, 196, 184); */
+    background-color: #202531;
+    border-radius: 40px;
+}
+.request-card{
+    margin-top: 30px;
+    background-color: rgb(250, 84, 84);
+    border-radius: 20px;
+}
+.request-text{
+    color: white;
+    margin-left: 20px;
+}

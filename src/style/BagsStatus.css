@@ -1,0 +1,78 @@
+/* .card-img{
+    width: 50%;
+    height: 50%;
+}
+.bagsstatus-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.bagsstatus-card-1{
+    width: 150px;
+    height: 15%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.bagsstatus-card-2{
+  width: 150px;
+  height: 15%;
+  margin-left: 300px;
+  margin:-185px 0px 0px 300px
+}
+.bagsstatus-card-3{
+  width: 150px;
+  height: 15%;
+}
+.bagsstatus-card-4{
+  width: 150px;
+  height: 15%;
+} */
+/* .bagsstatus-card-5{
+  width: 150px;
+  margin:-182px 0px 0px 690px
+}
+.bagsstatus-card-6{
+  width: 150px;
+  margin:-199px 0px 0px 860px
+}
+.bagsstatus-card-7{
+  width: 150px;
+  margin:-199px 0px 0px 1025px
+}
+.bagsstatus-card-8{
+width: 150px;
+margin:-190px 0px 0px 1188px
+} */
+
+.bags-status-main-div{
+  height: 100vh;
+  display: flex;
+  /* background-color: wheat; */
+  background-color:  #202531;
+}
+.bagsstatus-div {
+  display: flex;
+  flex-direction: column;
+}
+.bagsstatus-card {
+  width: 220px;
+  margin-top: 20px;
+  background-color: rgba(242, 252, 177, 0.679);
+  background-color: #202531;
+  height: 230px;
+  border-radius: 20px ;
+  border-color: red;
+}
+.bagsstatus-img{
+  height: 140px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+}
+.bagsstatus-h6{
+  color: white;
+}

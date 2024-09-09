@@ -1,0 +1,109 @@
+/* .contact-container{
+    padding-top: 70px;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1d1e22;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.contact-contain{
+    background: linear-gradient(135deg, #4f5bd5, #962fbf, #d62976, #fa7e1e, #feda75);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+.form-main{
+    display: flex;
+    flex-direction: column;
+}
+.form h2{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.form-label{
+    margin-bottom: 10px;
+}
+.form input{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.form-button{
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ff007f;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.form button:hover{
+    background-color: #d6006e;
+} */
+
+.page-container{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    height: 100vh;
+    /* width: %; */
+    background-color: #1d1e22;
+}
+.background{
+    position:relative ;
+    width: 40%;
+    height: 30%;
+    margin-bottom: 23%;
+    /* background: url('../image/hdimg\ copy.jpg') no-repeat center center/cover; */
+}
+.form-container{
+    background: rgba(255, 255, 255, 0.1);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blure(10px);
+}
+.form-main{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.form-main h2{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.form-main label{
+    margin-bottom: 9px;
+}
+.form-main input{
+    padding: 10px;
+    /* margin-top: 5px; */
+    /* margin-bottom: 20px; */
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.form-main textarea{
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+.form-main button{
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    /* background-color: #ff007f; */
+    background-color: #fa445c;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.form-main button:hover{
+    background-color: #d6006e;
+}
